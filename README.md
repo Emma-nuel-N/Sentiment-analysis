@@ -4,8 +4,8 @@ Thirty (30) hotels/restaurants have been selected by the number of reviews gener
 The 30 most reviewed hotels were selected because they would have the most information to work with
 
 # libraries 
-NLTK (Natural Language Tool Kit)
-Textblob
+NLTK (Natural Language Tool Kit) \n
+Textblob \n
 numpy
 
 
