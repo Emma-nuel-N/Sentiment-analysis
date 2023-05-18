@@ -3,6 +3,10 @@ In this work, sentiment analysis is carried out on hotel/restaurant reviews writ
 Thirty (30) hotels/restaurants have been selected by the number of reviews generated of 537 hotels/restaurants. 
 The 30 most reviewed hotels were selected because they would have the most information to work with
 
+#libraries 
+NLTK (Natural Language Tool Kit)
+Textblob
+numpy
 
 
 # Conclusion
