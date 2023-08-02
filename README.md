@@ -56,19 +56,19 @@ Load the dataset and preprocess the reviews:
 python
 Copy code
 df = pd.read_csv('tourist_accommodation_reviews.csv')
-# Perform data preprocessing and filtering of reviews
+## Perform data preprocessing and filtering of reviews
 # ...
 Perform sentiment analysis and visualization:
 python
 Copy code
-# Calculate sentiment polarity for each review
+## Calculate sentiment polarity for each review
 # ...
-# Categorize sentiments and create visualizations
+## Categorize sentiments and create visualizations
 # ...
 Display the results:
 python
 Copy code
-# Show the results and visualizations
+## Show the results and visualizations
 # ...
 Data Preprocessing
 The code performs the following data preprocessing steps on the review text:
